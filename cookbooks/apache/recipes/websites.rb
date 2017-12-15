@@ -1,7 +1,7 @@
 
 file 'default website file' do
 	path '/var/www/html/index.html'
-	content 'Hello world! from 2.0 version'
+	content 'Hello world! from 1.0 version'
 end
 
 #webnodes = search('node', 'role:web')
